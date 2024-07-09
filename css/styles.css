@@ -1,0 +1,32 @@
+/*font dosyalarım*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  font-family: "roboto", sans serif;
+  font-weight: regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+header {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+}
+.ana-giriş-sayfası {
+  background-color: #2e2f42;
+  color: white;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 2%;
+  font-weight: 700px;
+  text-align: center;
+}
+.button {
+  background-color: #4d5ae5;
+  color: white;
+  font-size: 16px;
+}
+.button:hover {
+  background-color: #404bbf;
+}
